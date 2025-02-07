@@ -1,6 +1,6 @@
 # Ask for the user's name
 
-name = input("Enter your name here: ")
+name = input("Enter your name here only: ")
 
 
 # Print a greeting
